@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\VALE MORTE SE MEXER\\Senai-notes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|c:\\users\\fic\\desktop\\vale morte se mexer\\senai-notes\\senai notes\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|solutionrelative:senai notes\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|c:\\users\\fic\\desktop\\vale morte se mexer\\senai-notes\\senai notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|solutionrelative:senai notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|c:\\users\\fic\\desktop\\vale morte se mexer\\senai-notes\\senai notes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|solutionrelative:senai notes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|c:\\users\\fic\\desktop\\vale morte se mexer\\senai-notes\\senai notes\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|c:\\users\\fic\\desktop\\vale morte se mexer\\senai-notes\\senai notes\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|solutionrelative:senai notes\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|c:\\users\\fic\\desktop\\vale morte se mexer\\senai-notes\\senai notes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|solutionrelative:senai notes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|c:\\users\\fic\\desktop\\vale morte se mexer\\senai-notes\\senai notes\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{957288BD-63B1-4E7C-9EE4-1D1F7D49F25F}|Senai notes\\Senai notes.csproj|solutionrelative:senai notes\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,33 +50,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\VALE MORTE SE MEXER\\Senai-notes\\Senai notes\\Program.cs",
               "RelativeDocumentMoniker": "Senai notes\\Program.cs",
               "ToolTip": "C:\\Users\\fic\\Desktop\\VALE MORTE SE MEXER\\Senai-notes\\Senai notes\\Program.cs",
               "RelativeToolTip": "Senai notes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T22:57:34.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\VALE MORTE SE MEXER\\Senai-notes\\Senai notes\\Controller\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Senai notes\\Controller\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\fic\\Desktop\\VALE MORTE SE MEXER\\Senai-notes\\Senai notes\\Controller\\UsuarioController.cs",
               "RelativeToolTip": "Senai notes\\Controller\\UsuarioController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwFsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T22:49:38.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\VALE MORTE SE MEXER\\Senai-notes\\Senai notes\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Senai notes\\Models\\Usuario.cs",
@@ -89,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\VALE MORTE SE MEXER\\Senai-notes\\Senai notes\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "Senai notes\\Repositories\\UsuarioRepository.cs",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\VALE MORTE SE MEXER\\Senai-notes\\Senai notes\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "Senai notes\\Interfaces\\IUsuarioRepository.cs",
